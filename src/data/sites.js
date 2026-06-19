@@ -22,5 +22,21 @@ export const historicalSites = [
     description: 'Known as the "Cradle of Mankind," this steep-sided ravine in the Great Rift Valley has yielded some of the most important hominin fossils ever discovered.',
     image: '/images/olduvai_gorge_1781866909462.png',
     featured: true
+  },
+  {
+    id: 'kondoa',
+    title: 'Kondoa Rock-Art',
+    location: 'Dodoma Region',
+    description: 'A spectacular collection of ancient rock paintings on the eastern slopes of the Maasai escarpment, depicting the lives of hunter-gatherers and pastoralists.',
+    image: '/images/kondoa_1781867727905.png',
+    featured: false
+  },
+  {
+    id: 'bagamoyo',
+    title: 'Bagamoyo',
+    location: 'Pwani Region',
+    description: 'Once the most important trading port along the East African coast and the former capital of German East Africa, featuring fascinating colonial ruins.',
+    image: '/images/bagamoyo_1781867741337.png',
+    featured: false
   }
 ];
